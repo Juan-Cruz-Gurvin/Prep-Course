@@ -1,0 +1,14 @@
+Variables: una variable es una forma de almacenar el valor de algo para usar más tarde.
+
+Strings: son bloques de texto, siempre se definirán entre comillas.
+
+Funciones: una función es un conjunto de instrucciones que realiza una tarea o calcula un valor. 
+Comienza con la palabra clave function, seguido del nombre que le queremos poner a la funcion (nombres que describan lo que hacen). Luego viene un abre y cierra paréntesis (argumentos). Y por último abre y cierre corchetes (donde irá todo nuestro código a ejecutar).
+
+Argumentos: Si agregamos una variable a los paréntesis cuando declaramos la función, podemos usar esta variable dentro de nuestra función.
+
+Return: La sentencia return finaliza la ejecución de la función y especifica un valor para ser devuelto a quien llama a la función.
+
+Declaraciones if: es un control de flujo y comparación en la que nuestra función verifica si es true o false.
+
+Valores booleanos: Es un concepto que alimenta el código binario (0 o 1), en este caso false o true.

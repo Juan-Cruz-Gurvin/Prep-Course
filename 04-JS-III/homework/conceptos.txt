@@ -1,0 +1,1 @@
+Arrays: Un array es una manera de poder guardar datos del mismo tipo o clase (cadenas/strings, números o booleanos).

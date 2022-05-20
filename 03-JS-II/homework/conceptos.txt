@@ -1,0 +1,20 @@
+For: es un bucle con una sintaxis única, similar a la instrucción if.
+Empieza con la plabra for, seguida de paréntesis y luego abrir y cerrar llaves.
+Dentro de los paréntesis necesitamos tres declaraciones (separadas por un punto y coma):
+1° Declaracion de la variable (es sobre lo que se repetirá el bucle).
+2° Expresión condicional (el ciclo continuará hasta que esta declaración sea false).
+3° Incrementaremos nuestra variable.
+
+for (let i = 0                  ; i < 10               ; i++                     ) {
+    //| Declaramos una variable |Expresión condicional |Incrementamos la variable|
+    console.log(i);
+}
+
+Operadores lógicos
+
+&& (AND): Este operador evaluará ambas expresiones y devolverá verdadero si AMBAS expresiones son true.
+Si uno o ambos de ellos es falso, este operador devolverá false.
+
+|| (OR): Este operador determinará si una de las expresiones es true. Devolverá true si una (o ambas) de las expresiones es true. Devolverá false si AMBAS expresiones son false.
+
+! (NOT): Este operador devolverá el valor booleano opuesto de lo que se le pasa (hace lo contrario).

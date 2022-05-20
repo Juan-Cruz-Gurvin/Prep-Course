@@ -1,0 +1,9 @@
+Objetos: Los objetos son contenedores de información sobre una sola cosa.
+
+Propiedades:
+
+Métodos: Las funciones guardadas en un objeto se denominan métodos.
+
+Bucle for...in: Este bucle recorrerá cada clave del objeto y finalizará cuando hayan iterado todas las claves. (se utiliza este bucle porque los objetos no contienen índices numéricos).
+
+Notación de puntos vs notación de corchetes: Hay dos modos de acceder a estas propiedades: notación por punto y notación por corchete (es decir, operador de subscripción).
